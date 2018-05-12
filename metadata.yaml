@@ -1,0 +1,29 @@
+_repo: Town-Life-in-Australia_16664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Twopeny, Richard Ernest Nowell
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '6856'
+    url: http://www.gutenberg.org/2009/agents/6856
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Sydney (N.S.W.) -- Social life and customs'
+- !lcsh 'Melbourne (Vic.) -- Social life and customs'
+- !lcsh 'Adelaide (S. Aust.) -- Social life and customs'
+title: Town Life in Australia
+url: http://www.gutenberg.org/ebooks/16664
